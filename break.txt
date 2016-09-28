@@ -1,0 +1,9 @@
+class cls:
+    def main ():
+        x = 4
+        while(true):
+            print(x)
+            x = x - 1
+            if (x==2):
+                break
+        return
